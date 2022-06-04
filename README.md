@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Valdes</h1>
 <h3 align="center">A passionate frontend developer from San Diego, California.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wtvaldes" alt="wtvaldes" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/williamtvaldes" target="blank"><img src="https://img.shields.io/twitter/follow/williamtvaldes?logo=twitter&style=for-the-badge" alt="williamtvaldes" /></a> </p>
 
-- 📫 How to reach me **wtvaldes@gmail.com**
+- 📫 How to reach me: **wtvaldes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
